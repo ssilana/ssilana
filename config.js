@@ -9,18 +9,18 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'silana', false],
+['212609962435', 'Owner', true],
+['212695212631', 'Imran', false],
 ['', '', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
+ nomerbot: '212779864135',
+ pairingNumber: '212695212631',
  nameown: 'Nour',
- nomerown: '212717457920',
+ nomerown: '212695212631',
  packname: 'sticker by ',
- author: 'Noureddine',
+ author: 'Imran',
  namebot: 'ꜱɪʟᴀɴᴀ',
  wm: ''-'_꩜ 𝘚𝘪𝘭𝘢𝘯𝘢 𝘣𝘰𝘵 ꩜_'-'',
  stickpack: 'Whatsapp',
@@ -46,7 +46,7 @@ global.media = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
+ sig: 'https://instagram.com/imran_information',
  sgh:  'https://github.com/noureddineouafy',
  sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
 }
